@@ -1,0 +1,6 @@
+{
+  "name": "EduTrack - Student Database Management System",
+  "description": "A modern web application for student record management with CRUD operations, input validation, departmental analytics, and viva voce guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
